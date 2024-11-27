@@ -5,7 +5,7 @@ I'm a passionate developer who loves building scalable applications and explorin
 
 ### 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=usamatariq180&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=usamatariq180&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ### 🤝 Connect with Me
 
