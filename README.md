@@ -5,7 +5,7 @@ I'm a passionate developer who loves building scalable applications and explorin
 
 ### 
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=usamatariq180&show_icons=true&theme=radical)
 
 ### 🤝 Connect with Me
 
@@ -17,9 +17,6 @@ I'm a passionate developer who loves building scalable applications and explorin
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
     </a>
