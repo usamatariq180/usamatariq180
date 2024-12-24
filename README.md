@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamatariq180&label=Profile%20views&color=0e75b6&style=flat" alt="usamatariq180" /> </p>
 
-As a Full Stack Developer and Team Lead at Reactive Space, I specialize in building scalable, real-time AI applications that redefine user experiences. I lead a cross-functional team, ensuring the seamless integration of AI-driven solutions from backend systems to frontend interfaces. My technical expertise spans accross a wide range of technologies, with a strong focus on AI, cloud architecture, and web development.
+As a Full Stack Developer and Team Lead at Reactive Space, I specialize in building scalable, real-time AI applications that redefine user experiences. I lead a cross-functional team, ensuring the seamless integration of AI-driven solutions from backend systems to frontend interfaces. My technical expertise spans across a wide range of technologies, with a strong focus on AI, cloud architecture, and web development.
 
 I played a pivotal role in the development of VABOT, an avatar-based chatbot for kiosk systems, which raised $4.25M in seed funding. This project exemplifies my ability to merge innovation with business impact while leading high-performing teams.
 
